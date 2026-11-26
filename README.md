@@ -6,6 +6,7 @@ Proyecto final de **Ingeniería de Software 1**. Es un sistema web para un compl
 
 - **Prototipo navegable (Figma):** https://www.figma.com/proto/DIk61UxS75bwQ4BGkjkLap/Prototipo---Reservas-de-canchas?node-id=1-5&starting-point-node-id=1%3A5&scaling=scale-down
 - **Video del recorrido por el prototipo (2:24):** [video/Recorrido_prototipo_reservas_canchas.mp4](video/Recorrido_prototipo_reservas_canchas.mp4)
+- **Video de la sustentación (4:47):** [video/Sustentacion_reservas_canchas.mp4](video/Sustentacion_reservas_canchas.mp4)
 - **Dossier de ingeniería:** [PDF](docs/Dossier_reservas_canchas.pdf) · [Word](docs/Dossier_reservas_canchas.docx)
 
 ## Equipo
@@ -32,7 +33,7 @@ Proyecto final de **Ingeniería de Software 1**. Es un sistema web para un compl
 | `docs/entregas/` | Entregas anteriores: requisitos (U2), casos de uso (U3), checkpoint de gestión ágil (U4) y de diseño y prototipado (U5) |
 | `diagramas/` | Casos de uso, arquitectura conceptual, mapa de navegación, flujo del CU2, modelo de datos y tablero Kanban |
 | `prototipo/` | Enlace al prototipo de Figma y capturas de las 16 pantallas |
-| `video/` | Video del recorrido por el prototipo |
+| `video/` | Video del recorrido por el prototipo y video de la sustentación |
 
 ## Estado del proyecto
 
